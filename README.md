@@ -6,7 +6,7 @@ This program uses the MBTA v3 API to help a user find the next departing train f
 
 To run this program:
  
-1. Navigate to the same directory the file is located in. 
+1. Navigate to the same directory that the files are located in. 
 2. Run “python numerated_challenge.py” on the command-line. 
 
 
