@@ -1,7 +1,7 @@
 # MBTADepartureTimeGenerator
 
 
-This program uses the MBTA v3 API to help a user find the next departing train for a particular stop on the MBTA T network. It will prompt the user for different info relating to routes, stops, etc. It will first ask you to pick a route, then a stop, and then a direction. 
+This program uses the MBTA v3 API to help a user find the next departing train for a particular stop on the MBTA T network. It will prompt the user for different info relating to routes, stops, etc. It will first ask the user to choose a route, then a stop, and then a direction. 
 
 
 To run this program:
